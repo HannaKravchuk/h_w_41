@@ -8,5 +8,8 @@
 
 1. Клонировать репозиторий:
    ```bash
-   
+   https://github.com/HannaKravchuk/h_w_41.git
    cd my-react-app-use
+   
+
+
