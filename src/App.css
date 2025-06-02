@@ -1,0 +1,15 @@
+.app-container {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-color:rgb(235, 235, 234);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(69, 30, 30, 0.1);
+  text-align: center;
+}
+
+.loader {
+  font-style: italic;
+  color: #555;
+  padding: 1.5rem;
+}
